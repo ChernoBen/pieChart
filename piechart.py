@@ -35,9 +35,3 @@ ax1.axis('equal')
 plt.show()
 plt.savefig('contas', format='png')
 
-'''gilberto 50
-
-O Kanri disponibiliza também na conta gratuita, breves resumos sobre suas e estoques.
-
-
-'''
